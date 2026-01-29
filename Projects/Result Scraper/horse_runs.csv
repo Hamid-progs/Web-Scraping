@@ -1,0 +1,99 @@
+positions,jockey,horse,bar,weight,time,margin,race_number
+2,Matthew Cameron,Hoorah Henry,2,58.5,1.26.55,1.37L,1
+3,Kelly Myers,I'll Be Home Soon,1,58.5,1.26.63,1.79L,1
+4,Kate Hercock,Wyworry,11,54.0,1.26.64,1.86L,1
+5,Craig Grylls,Elegant Elle,9,56.5,1.26.81,2.84L,1
+6,Matt Cartwright,Wild At Heart,10,55.0,1.26.85,3.06L,1
+7,Joe Doyle,Furiosa,7,57.0,1.27.00,3.92L,1
+8,Rory Hutchings,Belles Boom,8,57.0,1.27.08,4.38L,1
+9,Madan Singh,Dancing Shadow,5,55.0,1.27.15,4.76L,1
+10,George Rooke,Teresa Mac,4,56.5,1.27.22,5.18L,1
+11,Jim Chung (A),Clear Conscience (AUS),3,57.0,1.27.64,7.55L,1
+2,Matt Cartwright,Oneira,3,54.0,1.03.60,2.63L,2
+3,Kate Hercock,Miss Fladgate (AUS),5,54.0,1.04.16,6.02L,2
+4,Liam Kauri (A),Idyllic (AUS),2,60.0,1.04.33,7.09L,2
+2,Chris Dell,Quello Dolce,4,58.0,1.10.01,2.16L,3
+3,Craig Grylls,Poppy's Girl,8,60.0,1.10.04,2.36L,3
+4,Leah Hemi,The Big Picture,9,58.5,1.10.17,3.16L,3
+5,Elen Nicholas (A),Dazz,3,56.5,1.10.24,3.55L,3
+6,Liam Kauri (A),Fancypants,7,54.0,1.10.25,3.62L,3
+7,Rory Hutchings,Flutterbelle,5,59.5,1.10.39,4.50L,3
+8,Jim Chung (A),Albarossa (AUS),10,54.0,1.10.55,5.45L,3
+9,Matthew Cameron,Littleredcorvette,6,58.0,1.10.57,5.60L,3
+10,Daniel Stackhouse,Stipulator,2,59.0,1.10.95,7.87L,3
+11,Amber Riddell (A),Eastandwest,1,54.0,1.12.31,16.12L,3
+2,Elen Nicholas (A),Enterprise Gem,12,58.5,2.14.96,1.60L,4
+3,Liam Kauri (A),Julianus,6,57.0,2.15.04,2.04L,4
+4,Craig Grylls,Air Dancer,8,60.0,2.15.17,2.74L,4
+5,Jim Chung (A),Sir Bruce,7,58.0,2.15.22,2.97L,4
+6,Matt Cartwright,Kawatiri,5,56.5,2.15.38,3.86L,4
+7,Joe Doyle,Protheatrics,14,58.0,2.15.41,4.02L,4
+8,Corentin Berge,Lucan,3,56.5,2.15.49,4.48L,4
+9,George Rooke,Cry Baby,16,58.5,2.15.60,5.07L,4
+10,Samantha Collett,Vougeot,15,57.0,2.15.62,5.21L,4
+11,Amber Riddell (A),Reliable Squeeze,4,56.5,2.15.67,5.48L,4
+12,Masa Hashizume,Shes Wondering,13,57.0,2.15.73,5.77L,4
+13,Rory Hutchings,Faultless,1,59.0,2.15.76,5.95L,4
+14,Jonathan Riddell,Taupo Dancer (AUS),11,59.0,2.15.90,6.72L,4
+15,Leah Hemi,Joan's Joker,10,57.5,2.15.97,7.10L,4
+16,Ryan Elliot,Knickerless,9,60.0,2.16.35,9.18L,4
+3,Joe Doyle,Latest Model,9,57.0,2.20.34,0.60L,5
+4,Daniel Stackhouse,Gillian,14,59.5,2.20.41,0.95L,5
+5,Amber Riddell (A),Star Ballot,7,57.0,2.20.42,0.96L,5
+6,Kate Hercock,Be Real,5,54.5,2.20.44,1.12L,5
+7,Craig Grylls,Manzor Blue,4,58.5,2.20.54,1.69L,5
+8,Chris Dell,Crackercol,3,56.0,2.20.80,3.12L,5
+9,Corentin Berge,Stringline,2,54.0,2.20.82,3.24L,5
+10,Jim Chung (A),Phats,18,56.0,2.21.24,5.52L,5
+11,Liam Kauri (A),My Alibi,15,56.0,2.21.35,6.13L,5
+12,Ryan Elliot,Sight To See,11,60.0,2.21.53,7.11L,5
+13,Kelly Myers,Titled (AUS),6,54.0,2.21.71,8.13L,5
+14,Masa Hashizume,Thrilling,8,56.5,2.21.95,9.45L,5
+15,Samantha Collett,Call A Friend,12,54.0,2.22.06,10.01L,5
+16,Leah Hemi,Platinum Goddess (AUS),1,54.5,2.22.13,10.44L,5
+17,George Rooke,Palmarow,17,56.0,2.22.38,11.81L,5
+18,Rory Hutchings,Ricochet,13,58.0,2.23.01,15.25L,5
+2,Mereana Hudson,Rosso (IRE),7,53.0,2.13.59,0.58L,6
+3,Craig Grylls,Royal Flower,12,58.0,2.13.70,1.19L,6
+4,Amber Riddell (A),One Bold Cat,14,55.0,2.13.81,1.80L,6
+5,Joe Doyle,He's A Doozy,6,54.0,2.13.93,2.47L,6
+6,Liam Kauri (A),Santa Catalina,4,55.0,2.14.11,3.46L,6
+7,Kate Hercock,Freddie Time,15,55.0,2.14.18,3.83L,6
+8,Kelly Myers,Opawa Jack,1,55.0,2.14.37,4.89L,6
+9,Masa Hashizume,Donnybrook,9,57.0,2.14.44,5.27L,6
+10,George Rooke,Trav,2,53.0,2.14.45,5.31L,6
+11,Matthew Cameron,Sassy Lass,8,55.0,2.14.46,5.35L,6
+12,Elen Nicholas (A),Prince Alby,13,55.0,2.14.59,6.12L,6
+13,Matt Cartwright,Notabadspillane,10,56.0,2.14.67,6.57L,6
+14,Samantha Collett,Whangaehu,5,55.0,2.14.94,8.03L,6
+15,Leah Hemi,Crouch,11,55.0,2.15.39,10.54L,6
+2,Corentin Berge,Fairy Dream,5,56.5,1.39.87,0.16L,7
+3,Samantha Collett,Waimea Bay,4,56.5,1.39.94,0.55L,7
+4,Kate Hercock,Crimson Sky,10,56.5,1.40.15,1.72L,7
+5,Leah Hemi,Iffigive,11,56.5,1.40.16,1.73L,7
+6,Matthew Cameron,Circus Trix,3,56.5,1.40.25,2.26L,7
+7,Kelly Myers,Ultimate Habit,8,56.5,1.40.49,3.61L,7
+8,Craig Grylls,Virgo Viva,1,56.5,1.41.74,10.66L,7
+9,Rory Hutchings,The Dirty Dee,9,56.5,1.41.75,10.72L,7
+10,Matt Cartwright,Under Orders,7,56.5,1.42.11,12.76L,7
+11,Ryan Elliot,In Your Dreams,6,56.5,1.45.81,33.54L,7
+2,Kate Hercock,Doctor Askar,11,53.5,1.36.51,0.10L,8
+3,Craig Grylls,Marotiri Molly,1,53.0,1.36.84,1.98L,8
+4,Ryan Elliot,Belles Beau,2,58.0,1.37.03,3.10L,8
+5,Matt Cartwright,Legarto,12,53.0,1.37.05,3.22L,8
+6,Matthew Cameron,Queen Zou (AUS),9,53.0,1.37.06,3.30L,8
+7,Daniel Stackhouse,Omega Boy,4,54.0,1.37.07,3.31L,8
+8,Leah Hemi,Mystic Park,6,53.0,1.37.12,3.64L,8
+9,Chris Dell,Sir Albert,5,53.0,1.37.51,5.91L,8
+10,Masa Hashizume,Hi Yo Sass Bomb,10,54.5,1.38.04,8.97L,8
+11,Samantha Collett,Spencer,3,53.0,1.38.44,11.32L,8
+12,Kelly Myers,Our Echo,7,53.0,1.39.57,17.88L,8
+2,Mereana Hudson,Connello,4,58.0,1.26.46,0.19L,9
+3,Ryan Elliot,Complex,1,60.0,1.26.47,0.27L,9
+4,Craig Grylls,Old Bill Bone,10,57.0,1.26.56,0.76L,9
+5,Rory Hutchings,Belles Fate,9,56.5,1.26.57,0.83L,9
+6,Daniel Stackhouse,Anderson Bridge,8,58.0,1.26.66,1.36L,9
+7,Kelly Myers,Airpark Hustler,7,58.5,1.26.76,1.92L,9
+8,Joe Doyle,Belle Tribute,6,57.0,1.26.77,1.96L,9
+9,Jim Chung (A),Thorax,2,60.0,1.26.96,3.06L,9
+10,Jonathan Riddell,Riverplate,5,57.5,1.27.33,5.17L,9
